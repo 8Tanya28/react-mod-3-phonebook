@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-mod-3-phonebook/static/css/main.89dc6687.css",
-    "main.js": "/react-mod-3-phonebook/static/js/main.120e9949.js",
+    "main.js": "/react-mod-3-phonebook/static/js/main.c4b67952.js",
     "index.html": "/react-mod-3-phonebook/index.html",
     "main.89dc6687.css.map": "/react-mod-3-phonebook/static/css/main.89dc6687.css.map",
-    "main.120e9949.js.map": "/react-mod-3-phonebook/static/js/main.120e9949.js.map"
+    "main.c4b67952.js.map": "/react-mod-3-phonebook/static/js/main.c4b67952.js.map"
   },
   "entrypoints": [
     "static/css/main.89dc6687.css",
-    "static/js/main.120e9949.js"
+    "static/js/main.c4b67952.js"
   ]
 }
